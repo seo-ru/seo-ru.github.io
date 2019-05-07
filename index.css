@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+div {
+    font: normal 30px 휴먼엑스포;
+}
+
+img {
+    height: 300px;
+}
+
+.title {
+    text-align: center;
+}
