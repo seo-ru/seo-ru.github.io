@@ -1,13 +1,16 @@
 @charset "utf-8";
 
 div {
-    font: normal 30px 휴먼엑스포;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
 img {
     height: 300px;
 }
 
-.title {
+h1.title {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 72px;
+    font-weight: 800;
     text-align: center;
 }
